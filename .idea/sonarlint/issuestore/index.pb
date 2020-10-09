@@ -17,3 +17,9 @@ B
 .travis.yml,d/e/dea01dd89a3b602828e630677fde5d77c06441c8
 ;
 app/.flake8,6/2/62243180f4ea09f2fa0ebf32275ded0b719b9d32
+J
+app/core/tests/__init__.py,e/c/ec8b4c8d857a421d74a69f3d8ef4b48177734284
+M
+app/core/tests/test_models.py,d/8/d8e88f1c356f00bacaf216c473e96d8a03fd7752
+C
+app/app/settings.py,1/5/15553f0d0a591c8d0334d386110c265a5f8f17f4
