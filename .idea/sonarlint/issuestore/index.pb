@@ -23,3 +23,11 @@ M
 app/core/tests/test_models.py,d/8/d8e88f1c356f00bacaf216c473e96d8a03fd7752
 C
 app/app/settings.py,1/5/15553f0d0a591c8d0334d386110c265a5f8f17f4
+S
+#app/core/migrations/0001_initial.py,f/3/f39792ce315355d42fe480c0b8f5cbcd627e09b3
+B
+app/core/models.py,7/8/783da6f384d3fcbe7ecde6e89739f14c0a218923
+A
+app/core/admin.py,4/a/4a49d05f610b33bcfb98a682ea04ff46e10ac04f
+L
+app/core/tests/test_admin.py,4/c/4c72ab366a9f7966ada2685ae016f8a441f8557e
