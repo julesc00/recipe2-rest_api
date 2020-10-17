@@ -51,3 +51,15 @@ O
 app/app/urls.py,e/3/e388adcb822ad487cac97efd2204e600327c1313
 @
 app/user/urls.py,6/e/6e915112bd2fef7175d2193755672339a9c8529f
+L
+app/recipe/tests/__init__.py,4/a/4a0254a67d61bf2508ed8c63ca30f7728dd7fe14
+B
+app/recipe/urls.py,2/6/26034ad29758bb07ea265dc733fc263345825361
+O
+app/core/migrations/0002_tag.py,7/3/73671112433e3b0b8979ada5fe83f6d2904afce9
+C
+app/recipe/views.py,1/3/13187778ece7081acd60bf56bbff4f19683ced0b
+Q
+!app/recipe/tests/test_tags_api.py,5/7/575449ac454f9131f5ed3ca1cffb1a3e4f6e7179
+I
+app/recipe/serializers.py,0/e/0e40728157a57fc90aa033876ac4a30b0ae06004
