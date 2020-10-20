@@ -63,3 +63,5 @@ Q
 !app/recipe/tests/test_tags_api.py,5/7/575449ac454f9131f5ed3ca1cffb1a3e4f6e7179
 I
 app/recipe/serializers.py,0/e/0e40728157a57fc90aa033876ac4a30b0ae06004
+X
+(app/recipe/tests/test_ingredients_api.py,c/1/c1310179df018fb606c4ee4039436fb001459ee7
