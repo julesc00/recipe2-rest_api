@@ -65,3 +65,5 @@ I
 app/recipe/serializers.py,0/e/0e40728157a57fc90aa033876ac4a30b0ae06004
 X
 (app/recipe/tests/test_ingredients_api.py,c/1/c1310179df018fb606c4ee4039436fb001459ee7
+S
+#app/recipe/tests/test_recipe_api.py,3/4/3432a5c66bb0d4e1a4781bb225eb20b781150a20
